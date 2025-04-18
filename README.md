@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a student.
 - 🌱 I’m currently learning python!
-<!-- - 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
+- 📫 How to reach me: [here](https://naoyahayashi37.github.io/)
 <br>
 
 
