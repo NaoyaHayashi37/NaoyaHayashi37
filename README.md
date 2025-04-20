@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a student.
+- 🧑‍💻 I'm a university student.
 - 🌱 I’m currently learning python!
 - 📫 How to reach me: [here](https://naoyahayashi37.github.io/)
 <br>
