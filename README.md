@@ -11,10 +11,6 @@
 - I'm a university student in Osaka
 - I'm studying Python and TypeScript
 
-### 🚀 Projects
-
-- 🤖 **[janken-line-bot](https://github.com/NaoyaHayashi37/janken-line-bot)** — じゃんけんを行う LINE Bot
-- 🌐 **[NaoyaHayashi37.github.io](https://github.com/NaoyaHayashi37/NaoyaHayashi37.github.io)** — 個人サイト
 
 ### 💻 Skills
 
