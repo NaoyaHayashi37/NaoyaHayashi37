@@ -11,7 +11,7 @@
 - I'm a university student in Osaka
 - I'm studying Python and TypeScript
 
-👉 Visit my [portfolio website](https://my-portfolio-three-eta-83.vercel.app/) to see my works
+# 👉 Visit my [portfolio website](https://my-portfolio-three-eta-83.vercel.app/) to see my works
 
 ### 💻 Skills
 
